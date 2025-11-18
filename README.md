@@ -1,7 +1,7 @@
-# Encurtador de URLs - Android Jetpack
+# Encurtador de URLs 
 
 Este é um aplicativo Android nativo que permite aos usuários encurtar URLs e visualizar uma lista de URLs previamente encurtadas. O projeto foi construído com Kotlin e segue as práticas mais modernas de desenvolvimento Android, utilizando componentes do Jetpack para criar uma aplicação robusta, reativa e de fácil manutenção.
-
+[Screen_recording_20251118_025101.mp4](../../../../../home/atthew-dev/V%C3%ADdeos/Screen_recording_20251118_025101.mp4)
 ## ✨ Funcionalidades
 
 - **Listagem de URLs**: Exibe uma lista de URLs que já foram encurtadas.
